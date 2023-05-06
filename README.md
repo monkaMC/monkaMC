@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on a Discord Selfbot<br>🤝 I’m looking for help with Frontend Area<br>🌱 I’m currently learning C Languages<br>💬 Ask me about RAGE:MP (Rage Multiplayer)
+
 
 
 ## 🌐 Socials:
